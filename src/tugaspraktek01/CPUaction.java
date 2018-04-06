@@ -18,5 +18,7 @@ public class CPUaction {
         ASUS.RAM="2x4GB DDR3";
         ASUS.HDD="500GB";
         ASUS.PSU="400Watt";
+        
+        ASUS.cetakInfo();
     }
 }
