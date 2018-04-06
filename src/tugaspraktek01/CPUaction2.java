@@ -12,5 +12,11 @@ package tugaspraktek01;
 public class CPUaction2 {
      public static void main(String[] args){
          CPU MSI = new CPU();
+         
+        MSI.Merk="MSI Gaming";
+        MSI.Processor="Inter Core-i5";
+        MSI.RAM="2x8GB DDR4";
+        MSI.HDD="1TB";
+        MSI.PSU="500Watt";
      }
 }
