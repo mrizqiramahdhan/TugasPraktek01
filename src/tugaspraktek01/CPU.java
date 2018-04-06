@@ -16,7 +16,7 @@ public class CPU {
     String HDD;
     String PSU;
     
-    void cetakInfo(); {
+    void cetakInfo() {
         System.out.println("Merk :"+Merk);
         System.out.println("Processor :"+Processor);
         System.out.println("RAM :"+RAM);
