@@ -18,5 +18,7 @@ public class CPUaction2 {
         MSI.RAM="2x8GB DDR4";
         MSI.HDD="1TB";
         MSI.PSU="500Watt";
+        
+        MSI.cetakInfo();
      }
 }
