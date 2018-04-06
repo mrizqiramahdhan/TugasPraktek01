@@ -11,6 +11,6 @@ package tugaspraktek01;
  */
 public class CPUaction2 {
      public static void main(String[] args){
-         
+         CPU MSI = new CPU();
      }
 }
