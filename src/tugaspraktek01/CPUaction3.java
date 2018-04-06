@@ -18,5 +18,7 @@ public class CPUaction3 {
         DA.RAM="2x16GB DDR4";
         DA.HDD="2TB";
         DA.PSU="600Watt";
+        
+        DA.cetakInfo();
     }
 }
