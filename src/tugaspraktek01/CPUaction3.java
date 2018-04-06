@@ -11,6 +11,6 @@ package tugaspraktek01;
  */
 public class CPUaction3 {
     public static void main(String[] args){
-        
+        CPU DA = new CPU();
     }
 }
